@@ -1,0 +1,8 @@
+Hexedit 
+
+	hexedit filename
+
+
+hexdump
+
+	hexdump -C filename
