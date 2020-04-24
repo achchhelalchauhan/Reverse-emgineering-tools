@@ -6,3 +6,5 @@ Hexedit
 hexdump
 
 	hexdump -C filename
+	
+cutter gui tools
